@@ -1,3 +1,4 @@
+src-git mtk https://github.com/Nossiac/mtk-openwrt-feeds;lede-17.01
 src-git gli_pub https://github.com/gl-inet/gli-pub.git
 src-git packages https://git.lede-project.org/feed/packages.git
 src-git luci https://git.lede-project.org/project/luci.git
